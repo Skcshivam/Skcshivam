@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m currently working on a MERN STACK web app .<br>🤝 I’m looking to collaborate on exciting MERN stack projects.<br>🌱 I’m currently learning advanced web development and optimization techniques.<br>💬 Ask me about MERN stack, full-stack development, and building scalable web apps.<br>⚡ Fun fact: I love turning ideas into real-world applications! 🚀
+👯 I’m currently working on a MERN STACK web app .<br>🤝 I’m looking to collaborate on a exciting MERN stack projects.<br>🌱 I’m currently learning advanced web development and optimization techniques.<br>💬 Ask me about MERN stack, full-stack development, and building scalable web apps.<br>⚡ Fun fact: I love turning ideas into real-world applications! 🚀
 
 
 ## 🌐 Socials:
